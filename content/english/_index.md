@@ -13,12 +13,12 @@ banner:
 ##################### Feature ##########################
 feature:
   enable : true
-  title : "Mudmap solves your *pfSense* management problems"
+  title : "Mudmap solves your *pfSense*® management problems"
   feature_item:
     # feature item loop
     - name : "API Driven Access"
       icon : "ti-pulse"
-      content : "Mudmap utilises programmatic access to *pfSense* 
+      content : "Mudmap utilises programmatic access to *pfSense*® 
       devices allowing for single or multi-device configuration."
       
     # feature item loop
@@ -72,9 +72,9 @@ service:
     - title : "All your devices in one dashboard"
       images:
       - "images/service-1.png"
-      content : "See the status of all your *pfSense* firewalls from one page. You can also get a detailed view for any
+      content : "See the status of all your *pfSense*® firewalls from one page. You can also get a detailed view for any
                 device that is accessible from the dashboard. View, create, update or delete operations you're used to
-                from inside *pfSense's own dashboard are all replicated within Mudmap. Everything in one location."
+                from inside *pfSense*'s own dashboard are all replicated within Mudmap. Everything in one location."
       button:
         enable : true
         label : "Check it out"
@@ -110,7 +110,7 @@ service:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Remotely Manage *pfSense*<br> with Confidence"
+  title : "Remotely Manage *pfSense*®<br> with Confidence"
   image : "images/screenshot.svg"
 
   
