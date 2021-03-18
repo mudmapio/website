@@ -1,0 +1,17 @@
+######################## default configuration ####################
+baseURL = "http://mudmap.io/"
+title = "Mudmap"
+theme = "website-theme"
+# post pagination
+paginate = "3"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# show newsletter
+newsletter = true
+# google analytics
+googleAnalytics = "" # example : UA-123-45
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true

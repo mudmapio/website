@@ -1,0 +1,61 @@
+
+# main menu
+[[main]]
+name = "Blog"
+url = "blog"
+weight = 1
+
+[[main]]
+name = "Pricing"
+url = "pricing"
+weight = 2
+
+[[main]]
+name = "Contact"
+url = "contact"
+weight = 3
+
+#[[main]]
+#name = "FAQ"
+#url = "faq"
+#weight = 4
+
+# footer menu left
+[[footer_left]]
+name = "About"
+url = "about"
+
+[[footer_left]]
+name = "Quick Start"
+url = "#"
+
+[[footer_left]]
+name = "Pricing"
+url = "pricing"
+
+
+# footer menu middle
+[[footer_middle]]
+name = "Reduce Workloads"
+url = "marketing/reduce-workloads"
+
+[[footer_middle]]
+name = "For MSP's"
+url = "marketing/for-msps"
+
+[[footer_middle]]
+name = "Manage Multiple Devices"
+url = "marketing/multiple-devices"
+
+# footer menu right
+[[footer_right]]
+name = "Contact"
+url = "contact"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions"
+
+[[footer_right]]
+name = "FAQ"
+url = "https://www.notion.so/61867cb823844719b04de58950a35f6e?v=c512d858bd4d4634a43ae01292ac1d39"
