@@ -1,0 +1,30 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "Mudmap"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = "Tools like pfSense make our lives easier and safer. But managing multiple sites by manually logging in is tiresome. I made Mudmap to make this great product even easier to use, and more accessible for everyone. <br>**Dan Sultanowsky, Founder**"
+# copyright
+copyright = "Mudmap 2020-2021"
+
+
+
+############################# Deutsch ############################
+[de]
+languageName = "De"
+title = "Mudmap"
+contentDir = "content/deutsch" # content/german
+weight = 2
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Produkte"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+# copyright
+copyright = "Mudmap 2020-2021"
+

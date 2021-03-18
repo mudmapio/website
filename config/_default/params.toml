@@ -1,0 +1,70 @@
+#################### default parameters ################################
+# logo = "images/logo.png"
+logo = "images/mudmap-text.webp"
+logo_width = "200px"
+# Meta data
+description = "Cloud monitoring and configuration for pfSense firewalls. Secure, safe and easy to configure and use. Take the hassle out of multisite firewall maintenance."
+author = "Mudmap.io | Cloud firewall monitoring"
+# contact form action
+contact_form_action = "https://formspree.io/f/xvovenzy" # contact form works with https://formspree.io
+
+# Preloader
+[preloader]
+enable = false
+preloader = "" # use jpg, png, svg or gif format.
+
+# Navigation buttons
+[navigation_button]
+enable = false
+label = "Get Started"
+link = "contact"
+[backend_redirect]
+enable = true
+label_login = "Login"
+link_login = "coming-soon"
+#link_login = "http://localhost:8000/accounts/login/"
+#link_login = "https://mudmap.io/accounts/login/"
+label_register = "Register"
+link_register = "coming-soon"
+#link_register = "http://localhost:8000/accounts/signup/"
+#link_register = "https://mudmap.io/accounts/signup/"
+
+############################# social site ########################
+[[social]]
+title = "facebook"
+icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "twitter"
+icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+link = "https://twitter.com/mudmapio"
+
+[[social]]
+title = "skype"
+icon = "ti-skype" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+[[social]]
+title = "linkedin"
+icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+link = "#"
+
+
+############################# Plugins ##############################
+# CSS Plugins
+[[plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[plugins.css]]
+link = "plugins/slick/slick.css"
+
+# JS Plugins
+[[plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[plugins.js]]
+link = "plugins/slick/slick.min.js"
+
