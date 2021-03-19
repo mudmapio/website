@@ -11,7 +11,7 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # show newsletter
 newsletter = true
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-DEN6RFS5FT"
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
