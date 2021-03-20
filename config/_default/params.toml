@@ -9,7 +9,7 @@ author = "Mudmap.io | Cloud firewall monitoring"
 contact_form_action = "https://formspree.io/f/xvovenzy" # contact form works with https://formspree.io
 
 # google analytics custom gtag from theme (relies on website-theme)
-googleAnalyticsGtag = "G-DEN6RFS5FT" # Gtag
+#googleAnalyticsGtag = "G-DEN6RFS5FT" # Gtag removed in favour of plausible
 
 # Preloader
 [preloader]

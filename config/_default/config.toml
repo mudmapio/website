@@ -1,7 +1,8 @@
 ######################## default configuration ####################
 baseURL = "http://mudmap.io/"
 title = "Mudmap"
-theme = "website-theme"
+theme = ["website-theme", "plausible-hugo"]
+
 # post pagination
 paginate = "3"
 # post excerpt
@@ -11,6 +12,12 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # show newsletter
 newsletter = true
 # google analytics
+
+[params.plausible]
+enable = true
+domain = 'mudmap.io'
+debug = true
+
 googleAnalytics = "" # UA
 #googleAnalyticsGtag = "G-DEN6RFS5FT" # Gtag in params.toml
 # unsafe html
