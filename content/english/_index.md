@@ -1,7 +1,7 @@
 ---
 ####################### Banner #########################
 banner:
-  title : "Remotely Monitor and Configure <i>pfSense</i>® in the Cloud"
+  title : "Remotely Manage and Configure <i>pfSense</i>® in the Cloud"
   image : "images/banner-art.svg"
   content : "Save time whilst securely managing your fleet of devices 
               across multiple sites all from one location."
