@@ -23,3 +23,6 @@ googleAnalytics = "" # UA
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
+
+[permalinks]
+blog = "blog/:slug"
