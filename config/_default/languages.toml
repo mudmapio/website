@@ -1,14 +1,14 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Mudmap"
+title = "Mudmap | pfSense Remote Management Software"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Tools like pfSense make our lives easier and safer. But managing multiple sites by manually logging in is tiresome. I made Mudmap to make this great product even easier to use, and more accessible for everyone. <br>**Dan Sultanowsky, Founder**"
+footer_content = "Tools like pfSense make our lives easier and safer. But, managing multiple sites by manually logging in is tiresome. I made Mudmap to make this great product even easier to use, and more accessible for everyone. <br>**Dan Sultanowsky, Founder**"
 # copyright
 copyright = "Mudmap 2020-2021"
 

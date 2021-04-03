@@ -1,6 +1,6 @@
 ######################## default configuration ####################
 baseURL = "http://mudmap.io/"
-title = "Mudmap"
+title = "Mudmap | pfSense Remote Management"
 theme = ["website-theme", "plausible-hugo"]
 
 # post pagination

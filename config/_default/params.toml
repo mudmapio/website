@@ -2,9 +2,10 @@
 # logo = "images/logo.png"
 logo = "images/mudmap-text.webp"
 logo_width = "200px"
+images = ["images/mudmap-text.webp"]
 # Meta data
-description = "Cloud monitoring and configuration for pfSense firewalls. Secure, safe and easy to configure and use. Take the hassle out of multisite firewall maintenance."
-author = "Mudmap.io | Cloud firewall monitoring"
+description = "Cloud management and configuration for pfSense firewalls. Secure, safe and easy to configure and use. Take the hassle out of multisite firewall maintenance."
+author = "Mudmap | Remote management for pfSense firewalls"
 # contact form action
 contact_form_action = "https://formspree.io/f/xvovenzy" # contact form works with https://formspree.io
 
