@@ -2,7 +2,7 @@
 # logo = "images/logo.png"
 logo = "images/mudmap-text.webp"
 logo_width = "200px"
-images = ["images/mudmap-text.webp"]
+images = ["images/mudmap-twitter-card.png"]
 # Meta data
 description = "Cloud management and configuration for pfSense firewalls. Secure, safe and easy to configure and use. Take the hassle out of multisite firewall maintenance."
 author = "Mudmap | Remote management for pfSense firewalls"
