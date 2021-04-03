@@ -7,7 +7,7 @@ image: "images/blog/march2021/up-balloon.jpg"
 # post type (regular/featured)
 type: "featured"
 # meta description
-description: "Mudmap is a cloud managment tool for pfsense and its going live
+description: "Mudmap is a cloud management tool for pfsense and it's going live
 soon"
 # post draft
 draft: false
