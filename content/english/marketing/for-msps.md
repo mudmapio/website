@@ -10,13 +10,12 @@ draft: false
 
 ## You've probably got some of these problems
 
-As a managed service provider (MSP) do you deal with any of these? IT service
-providers are
+As a managed service provider (MSP) do you deal with any of these? 
 
 - Have tens or hundreds of pfSense devices across several clients
-- Needed to update one or several devices meaning you then had to login via SSH
+- Needed to configure one or several devices meaning you then had to login via SSH
   or a VPN, navigate the user interface, make the change, and then repeat that
-  over and over again.
+  over and over again
 - Deliberately not used pfSense simply because it lacks unified management -
   even though it's the right tool for your customers
 

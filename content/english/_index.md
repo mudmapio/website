@@ -69,10 +69,10 @@ service:
       content : "See the status of all your *pfSense*® firewalls from one page. You can also get a detailed view of any
                 device that is accessible from the dashboard. View, create, update or delete operations you're used to
                 from inside *pfSense*'s own dashboard are all replicated within Mudmap. Everything in one location."
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+    #  button:
+    #    enable : true
+    #    label : "Check it out"
+    #    link : "#"
     # service item loop
     - title : "Security is paramount"
       images:
@@ -82,10 +82,10 @@ service:
                 service-level user accounts are all used to provide a *defence-in-depth* approach to security.
                 Your SSH keys and passwords are not stored and all actions within the application and on your device
                 are logged for auditing purposes."
-      button:
-        enable : true
-        label : "More Details on the Security"
-        link : "#"
+    #  button:
+    #    enable : true
+    #    label : "More Details on the Security"
+    #    link : "#"
     # service item loop
     - title : "Built by an engineer for engineers"
       images:
@@ -95,10 +95,10 @@ service:
                 business professionals - it should make you money by saving time and personnel dissatisfaction. 
                 If it doesn’t, be the change you want to see and get in touch. You will always have my undivided 
                 attention - you’ll never get an automated reply with 14 days SLA turnaround!"
-      button:
-        enable : true
-        label : "Check it out"
-        link : "#"
+     # button: 
+     #   enable : true
+     #   label : "Check it out"
+     #   link : "#"
         
 ################### Screenshot ########################
 screenshot:
