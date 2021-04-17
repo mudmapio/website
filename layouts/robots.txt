@@ -1,0 +1,15 @@
+
+User-agent: *
+
+{{ range where .Data.Pages "Params.robotsdisallow" true }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
+Disallow: /app/
+
+Disallow: /login/
+
+Disallow: /logout/
+
+Disallow: /register/
+
+Sitemap: {{ "index.xml" | absLangURL }}
