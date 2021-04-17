@@ -3,6 +3,7 @@ baseURL = "http://mudmap.io/"
 title = "Mudmap | pfSense Remote Management"
 theme = ["website-theme", "plausible-hugo"]
 
+enableRobotsTXT = true
 # post pagination
 paginate = "3"
 # post excerpt
