@@ -37,5 +37,5 @@ HUGO_ENABLEGITINFO = "true"
 [[redirects]]
   from = "/app/user/login/"
   to = "https://frontend-mudmap-01.netlify.app/"
-  status = 301
+  status = 200
   force = true
