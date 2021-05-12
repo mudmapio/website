@@ -39,4 +39,3 @@ HUGO_ENABLEGITINFO = "true"
   to = "https://determined-curran-a97f04.netlify.app/app/user/login/"
   status = 301
   force = true
-  query = {path = ":path"}
