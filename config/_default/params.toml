@@ -27,11 +27,11 @@ enable = true
 label_login = "Login"
 #link_login = "coming-soon"
 #link_login = "http://localhost:8000/accounts/login/"
-link_login = "https://mudmap.io/app/user/login/"
+link_login = "/app/user/login/"
 label_register = "Register"
 #link_register = "coming-soon"
 #link_register = "http://localhost:8000/accounts/signup/"
-link_register = "https://mudmap.io/app/user/register/"
+link_register = "/app/user/register/"
 
 ############################# social site ########################
 [[social]]
