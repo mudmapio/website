@@ -38,6 +38,7 @@ HUGO_ENABLEGITINFO = "true"
   from = "/login"
   to = "https://frontend-mudmap-01.netlify.app/:splat"
   status = 200
+  force = true
 
 [[redirects]]
   from = "/api/*"
