@@ -34,8 +34,23 @@ HUGO_ENABLEGITINFO = "true"
   [headers.values]
     Permissions-Policy = "interest-cohort=()"
 
-#[[redirects]]
-#  from = "/app/user/login/"
-#  to = "https://frontend-mudmap-01.netlify.app/"
-#  status = 200
+[[redirects]]
+  from = "/login/"
+  to = "https://frontend-mudmap-01.netlify.app/"
+  status = 200
 #  force = true
+
+[[redirects]]
+from = "/api/*"
+to = "https://mudmap.co/api/:splat 200
+status = 200
+
+[[redirects]]
+from = "/admin/*"
+to = "https://mudmap.co/admin/:splat 200
+status = 200
+
+[[redirects]]
+from = "/static/*"
+to = "https://mudmap.co/static/:splat 200
+status = 200
