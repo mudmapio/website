@@ -1,0 +1,4 @@
+/login https://mudmap-frontend-01.netlify.app/:splat 200
+/api/* https://mudmap.co/api/:splat 200
+/admin/* https://mudmap.co/admin/:splat 200
+/static/* https://mudmap.co/static/:splat 200
