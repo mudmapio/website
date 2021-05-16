@@ -41,6 +41,12 @@ HUGO_ENABLEGITINFO = "true"
   force = false
 
 [[redirects]]
+  from = "/redirect"
+  to = "https://frontend-mudmap-01.netlify.app/:splat"
+  status = 200
+  force = false
+
+[[redirects]]
   from = "/test"
   to = "https://app.mudmap.co/:splat"
   status = 200
