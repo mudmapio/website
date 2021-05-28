@@ -8,7 +8,7 @@ banner:
   button:
     enable : true
     label : "Sign Up Today"
-    link : "coming-soon"
+    link : "register"
 
 ##################### Feature ##########################
 feature:
@@ -113,9 +113,9 @@ call_to_action:
   enable : true
   title : "Ready to get started?"
   image : "images/cta.svg"
-  content : "Sign up today, for free with no credit card needed."
+  content : "Sign up today and get started"
   button:
     enable : true
     label : "Sign Up"
-    link : "coming-soon"
+    link : "register"
 ---
