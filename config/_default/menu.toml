@@ -27,7 +27,7 @@ url = "about"
 
 [[footer_left]]
 name = "Quick Start"
-url = "#"
+url = "/docs"
 
 [[footer_left]]
 name = "Pricing"
@@ -58,4 +58,5 @@ url = "terms-conditions"
 
 [[footer_right]]
 name = "FAQ"
-url = "https://www.notion.so/61867cb823844719b04de58950a35f6e?v=c512d858bd4d4634a43ae01292ac1d39"
+#url = "https://www.notion.so/61867cb823844719b04de58950a35f6e?v=c512d858bd4d4634a43ae01292ac1d39"
+url = "/faq"
