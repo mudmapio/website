@@ -22,7 +22,7 @@ Otherwise, just drop me an email and I will get back to you as promptly as I can
 * **Mail: [dan@mudmap.io](mailto:dan@mudmap.io)**
 * **Address: Canberra, Australia**
 
-[documentation]: #
+[documentation]: https://docs.mudmap.io/
 [Github]: https://github.com/mudmapio/public-interactions/issues/new/choose
 [Roadmap]: https://www.notion.so/c7115288af904d2e877185c9c79b6475?v=5c646566d5c54f8d81df4a67e5862c7b
 [bug]: https://github.com/mudmapio/public-interactions/issues/new/choose

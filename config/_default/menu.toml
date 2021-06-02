@@ -15,10 +15,10 @@ name = "Contact"
 url = "contact"
 weight = 3
 
-#[[main]]
-#name = "FAQ"
-#url = "faq"
-#weight = 4
+[[main]]
+name = "Docs"
+url = "docs"
+weight = 4
 
 # footer menu left
 [[footer_left]]
